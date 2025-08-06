@@ -19,4 +19,3 @@ pnpm start
 PIPEDRIVE_API_KEY=your_key_here
 PIPEDRIVE_COMPANY_DOMAIN=your_company_domain_here
 ```
-```
